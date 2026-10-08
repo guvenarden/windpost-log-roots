@@ -1,0 +1,11 @@
+{
+  "log_key": "240083df6de7a2a8a9cc5d935fe8e4bdc3045c5bbbac73315f346f0ad47cffcf",
+  "roots": [
+    {
+      "epoch": 1,
+      "signed": "01000000000000000135362458e11e8c3a1da16208fd75d448d3dd99dd3f26ae926ebde24510065e6936355a9ce881f179fac81f0d9ad53e9b256ddabcd21bbdc4a2418a8b36d299a7f8c55b9b4927c6a05db378599d093d46bee9e0c59faf34f6c0984a3f0ccd0901"
+    }
+  ],
+  "updated": 1791459402,
+  "v": 1
+}
